@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hindi.perpetual.fyi/sitemap.xml
